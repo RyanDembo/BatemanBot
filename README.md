@@ -4,4 +4,4 @@ A simple discord bot which sent random Patrick Bateman quotes that I extended to
 
 Requires [Lavalink](https://github.com/freyacodes/Lavalink), which is the server program that streams music from YouTube to the Discord bot. Check out [Wavelink's server instalation guide to get started](https://github.com/PythonistaGuild/Wavelink#lavalink-installation)
 
-Used Python version 3.11.3
+Uses Python version 3.11.3
